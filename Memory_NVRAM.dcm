@@ -61,7 +61,7 @@ F http://www.cypress.com/file/41651/download
 $ENDCMP
 #
 $CMP MB85RC256V
-D FRAM memory with I2C interface, SOIC-8
+D FRAM memory with I2C interface, SSOP-8
 K FRAM 5.0V
 F https://www.fujitsu.com/uk/Images/MB85RC256V-20171207.pdf
 $ENDCMP
