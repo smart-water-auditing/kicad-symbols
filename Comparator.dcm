@@ -295,7 +295,43 @@ F http://www.ti.com/lit/ds/symlink/tl331.pdf
 $ENDCMP
 #
 $CMP TLV4041
-D Single Low-power Comparator with Precision Reference
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV4041R1
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV4041R2
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV4041R5
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV4051R1
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV4051R2
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV4051R5
+D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
