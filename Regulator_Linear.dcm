@@ -5370,6 +5370,204 @@ K linear regulator ldo fixed positive
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20002200D.pdf
 $ENDCMP
 #
+$CMP MCP1810x-12xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.2V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-12xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.2V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-12xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.2V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-15xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.5V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-15xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.5V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-15xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.5V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-18xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.8V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-18xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.8V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-18xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 1.8V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-20xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.0V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-20xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.0V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-20xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.0V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-22xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.2V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-22xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.2V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-22xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.2V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-25xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.5V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-25xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.5V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-25xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.5V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-28xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.8V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-28xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.8V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-28xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 2.8V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-30xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.0V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-30xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.0V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-30xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.0V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-33xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.3V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-33xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.3V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-33xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.3V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-35xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.5V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-35xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.5V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-35xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 3.5V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-42xJ8A
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 4.2V Fixed Output, VDFN-8
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-42xOT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 4.2V Fixed Output, SOT-23-5
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
+$CMP MCP1810x-42xTT
+D 150mA, 5.5V Ultra-Low Quiescent Current LDO Regulator With Shutdown, 4.2V Fixed Output, SOT-23
+K linear regulator ldo fixed positive ultra low quiescent current
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005623B.pdf
+$ENDCMP
+#
 $CMP MCP1825S
 D 500mA, Low-Voltage, Low Quiescent Current LDO Regulator, SOT-223, TO-220, TO-263
 K regulator linear ldo
