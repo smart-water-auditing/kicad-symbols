@@ -60,6 +60,12 @@ K FRAM I2C Serial 5V FRAM NVRAM
 F http://www.cypress.com/file/41651/download
 $ENDCMP
 #
+$CMP MB85RC256V
+D FRAM memory with I2C interface, SSOP-8
+K FRAM 5.0V
+F https://www.fujitsu.com/uk/Images/MB85RC256V-20171207.pdf
+$ENDCMP
+#
 $CMP MB85RS128B
 D FRAM memory with SPI interface, SOIC-8 SON-8
 K FRAM SPI 3.3V
