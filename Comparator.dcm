@@ -66,16 +66,16 @@ K cmp open collector
 F http://www.ti.com/lit/ds/symlink/lm393.pdf
 $ENDCMP
 #
-$CMP LMH7324
-D Quad 700 ps High Speed Comparator with RSPECL Outputs, WQFN-32
-K cmp push-pull complementary
-F http://www.ti.com/lit/ds/symlink/lmh7324.pdf
-$ENDCMP
-#
 $CMP LM397
 D Single General-Purpose Voltage Comparator with Open-Collector Output, SOT-23-5
 K single comparator
 F http://www.ti.com/lit/ds/symlink/lm397.pdf
+$ENDCMP
+#
+$CMP LMH7324
+D Quad 700 ps High Speed Comparator with RSPECL Outputs, WQFN-32
+K cmp push-pull complementary
+F http://www.ti.com/lit/ds/symlink/lmh7324.pdf
 $ENDCMP
 #
 $CMP LMV331
@@ -301,36 +301,42 @@ F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
 #
 $CMP TLV4041R1
-D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+D Single 1.6V Low-power Non-inverting Push-Pull Output Comparator with 1.2V Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
 #
 $CMP TLV4041R2
-D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+D Single 1.6V Low-power Non-inverting Push-Pull Output Comparator with 0.2V Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
 #
 $CMP TLV4041R5
-D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+D Single 1.6V Low-power Non-inverting Push-Pull Output Comparator with 0.5V Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
 #
 $CMP TLV4051R1
-D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+D Single 1.6V Low-power Inverting Push-Pull Output Comparator with 1.2V Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
 #
 $CMP TLV4051R2
-D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
+D Single 1.6V Low-power Inverting Push-Pull Output Comparator with 0.2V Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
 $ENDCMP
 #
 $CMP TLV4051R5
+D Single 1.6V Low-power Inverting Push-Pull Output Comparator with 0.5V Precision Reference, SOT-23-5
+K comparator
+F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
+$ENDCMP
+#
+$CMP TLV40x1
 D Single 1.6V Low-power Push-Pull Output Comparator with Precision Reference, SOT-23-5
 K comparator
 F https://www.ti.com/lit/ds/symlink/tlv4041.pdf
