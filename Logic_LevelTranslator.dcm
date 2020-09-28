@@ -54,6 +54,12 @@ K Noninverting Bidirectional
 F https://www.ti.com/lit/ds/symlink/sn74avc4t245.pdf
 $ENDCMP
 #
+$CMP SN74AVC4T774PW
+D 4-Bit Dual-Supply Bus Transceiver With Configurable Voltage-Level Shifting and 3-State Outputs With Independent Direction Control Inputs, TSSOP-16
+K Noninverting Bidirectional
+F https://www.ti.com/lit/ds/symlink/sn74avc4t774.pdf
+$ENDCMP
+#
 $CMP SN74AVC8T245PW
 D 8-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, TSSOP-24
 K Noninverting Bidirectional
