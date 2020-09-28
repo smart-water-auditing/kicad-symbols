@@ -600,8 +600,20 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP AP7361C-10Y5
+D 1A Low Dropout regulator, positive, 1.0V fixed output, SOT-89-5
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
 $CMP AP7361C-12E
 D 1A Low Dropout regulator, positive, 1.2V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-12Y5
+D 1A Low Dropout regulator, positive, 1.2V fixed output, SOT-89-5
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
@@ -612,8 +624,20 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP AP7361C-15Y5
+D 1A Low Dropout regulator, positive, 1.5V fixed output, SOT-89-5
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
 $CMP AP7361C-18E
 D 1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-18Y5
+D 1A Low Dropout regulator, positive, 1.8V fixed output, SOT-89-5
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
@@ -624,14 +648,32 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP AP7361C-25Y5
+D 1A Low Dropout regulator, positive, 2.5V fixed output, SOT-89-5
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
 $CMP AP7361C-28E
 D 1A Low Dropout regulator, positive, 2.8V fixed output, SOT-223
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP AP7361C-28Y5
+D 1A Low Dropout regulator, positive, 2.8V fixed output, SOT-89-5
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
 $CMP AP7361C-33E
 D 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-33Y5
+D 1A Low Dropout regulator, positive, 3.3V fixed output, SOT-89-5
 K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
