@@ -60,4 +60,10 @@ K gsm 3g gprs umts hspa
 F http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf
 $ENDCMP
 #
+$CMP nRF9160
+D Low power SiP with integrated LTE-M/NB-IoT modem and GPS
+K LTE NB-IoT GPS nRF Nordic
+F https://infocenter.nordicsemi.com/pdf/nRF9160_PS_v2.0.pdf
+$ENDCMP
+#
 #End Doc Library
