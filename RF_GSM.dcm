@@ -63,7 +63,7 @@ $ENDCMP
 $CMP nRF9160
 D Low power SiP with integrated LTE-M/NB-IoT modem and GPS
 K LTE NB-IoT GPS nRF Nordic
-F https://infocenter.nordicsemi.com/index.jsp?topic=%2Fstruct_nrf91%2Fstruct%2Fnrf9160.html&cp=2_0
+F https://infocenter.nordicsemi.com/pdf/nRF9160_PS_v2.0.pdf
 $ENDCMP
 #
 #End Doc Library
