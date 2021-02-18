@@ -720,6 +720,18 @@ K linear regulator ldo fixed positive
 F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 $ENDCMP
 #
+$CMP AP7361C-FGE
+D 1A Low Dropout regulator, positive, adjustable output, U-DFN3030-8 (Type E)
+K linear regulator ldo adjustable positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
+$CMP AP7361C-Y5
+D 1A Low Dropout regulator, positive, adjustable output, SOT-89-5
+K linear regulator ldo adjustable positive
+F https://www.diodes.com/assets/Datasheets/AP7361C.pdf
+$ENDCMP
+#
 $CMP APE8865N-12-HF-3
 D 300mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23
 K 300mA LDO Regulator Fixed Positive
